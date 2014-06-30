@@ -4,6 +4,7 @@
   <title>Hello World</title>
   <!-- Bootstrap core CSS -->
   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
 </head>
 <body>
 
