@@ -7,14 +7,17 @@
 </head>
 <body>
 
-	<h1>Welcome to my DWA Project Page</h1>
+	<div class="container-fluid">
+		<div class="row">
+			<h1>Welcome to my DWA Project Page</h1>
 
-	<p> Click on the following links of each project or visit the GitHub repository</p>
-	<ul>
-		<li> <a href="P1">Project 1</a></li>
-		<li> <a href="https://github.com/andresarslanian/DWA15">GitHub Repository</a></li>
-	</ul>
-
+			<p> Click on the following links of each project or visit the GitHub repository</p>
+			<ul>
+				<li> <a href="P1">Project 1</a></li>
+				<li> <a href="https://github.com/andresarslanian/DWA15">GitHub Repository</a></li>
+			</ul>
+		</div>
+	</div>
 
   <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
 </body>
