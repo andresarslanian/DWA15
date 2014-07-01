@@ -13,8 +13,8 @@
 		<div class="col-xs-12">
 
 			<h1> Project 1 </h1>
-			<p>Hi! My name is Andres and this is me in the beach just before starting the summer course...</p>
-			<img src="../images/me.png" style="width: 40%; margin-top: 1%;" class="col-xs-offset-4 img-thumbnail">
+			<p>Hi! Welcome to my project...</p>
+			<img src="../images/me2.png" style="width: 25%; margin-top: 1%;" class="col-xs-offset-4 img-thumbnail">
 			<br>
 		  <div class="col-xs-10 col-xs-offset-1" style="margin-top: 5%;">
 			<div class="panel-group" id="accordion">
