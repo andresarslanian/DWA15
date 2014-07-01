@@ -4,10 +4,10 @@
   <meta charset="utf-8">
   <title>Project 1</title>
   <!-- Bootstrap core CSS -->
-  <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <script src="http://code.jquery.com/jquery-latest.js"></script>
 </head>
-<body style="background-image: url('../images/old_map.png');">
+<body style="background-image: url('./images/old_map.png');">
 
 <div class="container-fluid">
 	<div class="row">
@@ -15,7 +15,7 @@
 
 			<h1> Project 1 </h1>
 			<p>Hi! Welcome to my project...</p>
-			<img alt="My picture!" src="../images/me2.png" style="width: 25%; margin-top: 1%;" class="col-xs-offset-4 img-thumbnail">
+			<img alt="My picture!" src="./images/me2.png" style="width: 25%; margin-top: 1%;" class="col-xs-offset-4 img-thumbnail">
 			<br>
 		  <div class="col-xs-10 col-xs-offset-1" style="margin-top: 5%;">
 			<div class="panel-group" id="accordion">
@@ -142,6 +142,6 @@
 	</div>
 </div>
 
-  <script type="text/javascript" src="../bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
